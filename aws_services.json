@@ -1,0 +1,19 @@
+[
+    "Amazon EC2",
+    "Amazon S3",
+    "Amazon RDS",
+    "Amazon DynamoDB",
+    "AWS Lambda",
+    "Amazon CloudWatch",
+    "Amazon VPC",
+    "AWS IAM",
+    "Amazon API Gateway",
+    "Amazon Route 53",
+    "AWS Elastic Beanstalk",
+    "Amazon SNS",
+    "Amazon SQS",
+    "AWS CloudFormation",
+    "AWS Glue",
+    "AWS Step Functions",
+    "Amazon Redshift"
+]
